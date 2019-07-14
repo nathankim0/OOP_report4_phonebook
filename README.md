@@ -1,31 +1,32 @@
 Screenshots
 -----------
 
-1) 메뉴실행
+1) 메뉴실행\n
 ![1) 메뉴실행1](https://user-images.githubusercontent.com/37360089/61183355-580dd300-a67b-11e9-8000-32003068524d.PNG)
 
-2) 저장된파일을확인하는예
+2) 저장된파일을확인하는예\n
 ![2) 저장된파일을확인하는예](https://user-images.githubusercontent.com/37360089/61183356-5ba15a00-a67b-11e9-82da-66ae44bbfab0.PNG)
 
-3) 파일불러와서 전체보기 예
+3) 파일불러와서 전체보기 예\n
 ![3) 파일불러와서 전체보기 예](https://user-images.githubusercontent.com/37360089/61183357-60660e00-a67b-11e9-8edc-2283e1cba710.PNG)
 
-4) 메뉴실행2
+4) 메뉴실행2\n
 ![4) 메뉴실행2](https://user-images.githubusercontent.com/37360089/61183358-622fd180-a67b-11e9-897a-6a4dfaec3ae9.PNG)
 
-5) 메뉴실행3
+5) 메뉴실행3\n
 ![5) 메뉴실행3](https://user-images.githubusercontent.com/37360089/61183360-652ac200-a67b-11e9-92dc-ea96e4803a5c.PNG)
 
-6) 저장된파일을확인하는예2
+6) 저장된파일을확인하는예2\n
 ![6) 저장된파일을확인하는예 2](https://user-images.githubusercontent.com/37360089/61183361-678d1c00-a67b-11e9-8fe7-2f3f22dc7c85.PNG)
 
-7) 파일불러와서 전체보기 예2
+7) 파일불러와서 전체보기 예2\n
 ![7) 파일불러와서 전체보기 예 2](https://user-images.githubusercontent.com/37360089/61183363-69ef7600-a67b-11e9-8fa6-acae8e6f6be0.PNG)
 
 ![캡처](https://user-images.githubusercontent.com/37360089/61183365-6cea6680-a67b-11e9-8594-7cafc722f954.PNG)
 
 
-
+#설명
+---------------
 일단 간략하게, 헤더 파일에서 Phone 클래스를 구현하였고 메인 파일에서는 Phone 객체를 생성 후에 메뉴를 구현하여 Phone 클래스의 함수들을 호출하였습니다.
 
 main.cpp에서, PhoneClass 헤더파일을 include 하였습니다. while문으로 숫자를 입력하고 바로 끝나지 않게 무한루프로 구현하였고 그 안에 switch문으로 입력한 숫자에 따라 함수를 호출하게 하였습니다.
